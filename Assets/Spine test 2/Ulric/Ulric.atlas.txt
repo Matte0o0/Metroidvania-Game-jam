@@ -1,0 +1,146 @@
+
+Ulric.png
+size: 1736,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back neck
+  rotate: true
+  xy: 1611, 414
+  size: 216, 123
+  orig: 216, 123
+  offset: 0, 0
+  index: -1
+chest
+  rotate: true
+  xy: 622, 292
+  size: 338, 513
+  orig: 338, 513
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1137, 274
+  size: 329, 356
+  orig: 331, 359
+  offset: 1, 1
+  index: -1
+hjp
+  rotate: false
+  xy: 2, 22
+  size: 275, 186
+  orig: 275, 186
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 1084, 28
+  size: 72, 249
+  orig: 72, 249
+  offset: 0, 0
+  index: -1
+left calf
+  rotate: false
+  xy: 1468, 308
+  size: 141, 322
+  orig: 141, 322
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: false
+  xy: 730, 5
+  size: 197, 85
+  orig: 197, 85
+  offset: 0, 0
+  index: -1
+left forearm
+  rotate: false
+  xy: 971, 128
+  size: 145, 162
+  orig: 145, 162
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: true
+  xy: 618, 2
+  size: 88, 110
+  orig: 90, 112
+  offset: 1, 1
+  index: -1
+left quad
+  rotate: true
+  xy: 279, 48
+  size: 160, 337
+  orig: 160, 337
+  offset: 0, 0
+  index: -1
+left shoulder
+  rotate: true
+  xy: 1118, 102
+  size: 170, 230
+  orig: 170, 230
+  offset: 0, 0
+  index: -1
+off hand
+  rotate: true
+  xy: 2, 210
+  size: 420, 618
+  orig: 420, 618
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: false
+  xy: 1543, 19
+  size: 152, 109
+  orig: 152, 109
+  offset: 0, 0
+  index: -1
+right calf
+  rotate: true
+  xy: 1350, 130
+  size: 142, 336
+  orig: 142, 336
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: true
+  xy: 1611, 304
+  size: 108, 72
+  orig: 108, 72
+  offset: 0, 0
+  index: -1
+right forearm
+  rotate: true
+  xy: 1350, 9
+  size: 119, 191
+  orig: 119, 191
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 971, 21
+  size: 105, 111
+  orig: 107, 114
+  offset: 1, 1
+  index: -1
+right quad
+  rotate: true
+  xy: 622, 92
+  size: 198, 347
+  orig: 198, 347
+  offset: 0, 0
+  index: -1
+right shoulder
+  rotate: true
+  xy: 1417, 632
+  size: 294, 290
+  orig: 294, 290
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 632
+  size: 294, 1413
+  orig: 294, 1413
+  offset: 0, 0
+  index: -1
